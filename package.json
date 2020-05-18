@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/paszo/testredux2/issues"
   },
-  "homepage": "https://github.com/paszo/testredux2#readme"
+  "homepage": "https://github.com/paszo/testredux2#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
 }
